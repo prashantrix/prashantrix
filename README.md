@@ -1,95 +1,93 @@
 <div align="center">
 
-<!-- Animated image-based hero: dark/light theme versions are embedded SVG assets. -->
+<!-- HERO — image-based anime analyst banner with terminal, neon name and scanner -->
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=3">
   <img src="./assets/banner.svg?v=3" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%">
 </picture>
 
-<br><br>
+<br/><br/>
 
-<!-- Swinging ID badge from the animation guide -->
-<img src="./assets/lanyard.svg?v=3" alt="Animated analyst ID badge for Prashant Kashyap" width="250">
+<!-- SWINGING ANALYST ID -->
+<img src="./assets/lanyard.svg?v=3" alt="Animated analyst ID badge featuring Prashant's anime character" width="250">
 
-<br><br>
+<br/><br/>
 
-<!-- About and life beyond the code -->
-<img src="./assets/about-life.svg?v=3" alt="How I turn raw data into useful insights" width="100%">
+<!-- WHAT I ANALYZE + LIFE BEYOND THE SCREEN -->
+<img src="./assets/about-life.svg?v=3" alt="My approach to turning raw data into useful insights" width="100%"/>
 
-<br><br>
+<br/><br/>
 
-<!-- Tech stack -->
-<img src="./assets/stack.svg?v=3" alt="Analytics technology stack" width="100%">
+<!-- ANALYTICS TOOLKIT -->
+<img src="./assets/stack.svg?v=3" alt="SQL, Excel, Power BI, Python and PostgreSQL toolkit" width="100%"/>
 
-<br><br>
+<br/><br/>
 
-<!-- Developer ID and dashboard -->
-<img src="./assets/id-dashboard.svg?v=3" alt="Analyst ID and dashboard concept" width="100%">
+<!-- ANALYST ID + DASHBOARD -->
+<img src="./assets/id-dashboard.svg?v=3" alt="Analyst ID and sample dashboard illustration" width="100%"/>
 
 </div>
 
-## 🎯 Featured analytics projects
+## 📊 Featured analytics projects
 
-| Project | What it demonstrates | Stack |
+| Project | What it demonstrates | Tools |
 |:---|:---|:---|
-| [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Exploring seasonal agricultural performance and building comparisons from data | Python · Data Analysis |
+| [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Analysis of seasonal agricultural performance and comparisons across growing periods | Python · Data Analysis |
 | [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction trends and regional/business patterns | Power BI |
 | [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales performance, revenue patterns, and reporting | Power BI · Excel |
 | [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile sales trends and KPI reporting | Power BI · DAX |
 | [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Sales analysis and business reporting | SQL · Power BI |
 
-
-## ✨ Local animated cards
+## 🏆 GitHub at a glance
 
 <div align="center">
-  <img src="./assets/stats.svg?v=3" alt="Animated local profile focus card; decorative and not live counts" width="49%">
-  <img src="./assets/langs.svg?v=3" alt="Animated skills focus card; emphasis is illustrative, not language statistics" width="49%">
-  <img src="./assets/trophies.svg?v=3" alt="Decorative analytics achievement wall; not official GitHub trophies" width="86%">
+  <img src="./assets/stats.svg?v=3" alt="Animated analytics-themed profile stats card" width="100%"/>
+
+  <br/><br/>
+
+  <img src="./assets/langs.svg?v=3" alt="Animated skill focus bars for SQL, Excel, Power BI, Python and PostgreSQL" width="100%"/>
+
+  <br/><br/>
+
+  <img src="./assets/trophies.svg?v=3" alt="Decorative analytics achievement cards" width="100%"/>
 </div>
 
-> These are locally hosted animated designs, not fabricated live statistics. GitHub's live contribution counts are shown in the generated contribution calendar below.
+> The local cards are designed artwork, not fabricated live GitHub statistics or official GitHub trophies. The contribution visuals below are generated from your GitHub activity.
 
 ## 🌃 My contribution city
 
-*Every commit adds another block to the picture — regenerated daily by GitHub Actions.*
-
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg?v=2" alt="3D GitHub contribution calendar" width="100%">
+
+<img src="./profile-3d-contrib/profile-night-view.svg?v=3" alt="3D GitHub contribution calendar" width="100%"/>
+
+<br/><br/>
+
 </div>
 
 ## 🐍 Contribution snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake-dark.svg?v=2">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake.svg?v=2">
-    <img alt="Snake animation across my GitHub contribution calendar" src="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake.svg?v=2" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake-dark.svg?v=3">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake.svg?v=3">
+    <img alt="Snake animation across my GitHub contribution calendar" src="https://raw.githubusercontent.com/prashantrix/prashantrix/output/github-contribution-grid-snake.svg?v=3" width="100%"/>
   </picture>
 </div>
-
-## 📊 GitHub stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prashantrix&show_icons=true&hide_border=true&bg_color=0c0918&title_color=ff73df&text_color=e8dcff&icon_color=b28cff&include_all_commits=true" alt="GitHub stats for prashantrix">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantrix&layout=compact&hide_border=true&bg_color=0c0918&title_color=ff73df&text_color=e8dcff" alt="Most-used repository languages">
-</div>
-
-> Live stat cards use an external service and may occasionally be rate-limited. The contribution graphics above are generated by your own GitHub Actions workflows.
 
 ## 💌 Let's connect
 
 <div align="center">
-  <img src="./assets/connect.svg?v=3" alt="Connect with Prashant about data analysis and dashboards" width="100%">
 
-  <br><br>
+<img src="./assets/connect.svg?v=3" alt="Connect with Prashant about data analysis and dashboards" width="100%"/>
 
-  <a href="https://github.com/prashantrix"><img src="https://img.shields.io/badge/GitHub-prashantrix-40e0d0?style=for-the-badge&logo=github&logoColor=0b1020" alt="GitHub"></a>
-  <a href="mailto:prashantkashyap742369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-ff76c8?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=prashantrix&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
-</div>
+<br/><br/>
 
-<div align="center">
+<a href="https://github.com/prashantrix"><img src="https://img.shields.io/badge/GitHub-prashantrix-40e0d0?style=for-the-badge&logo=github&logoColor=0b1020" alt="GitHub"/></a>
+<a href="mailto:prashantkashyap742369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-ff76c8?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=prashantrix&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
-**Always learning. Always building. Always asking better questions.** ✨
+<br/><br/>
+
+**Turning data into insights, one query at a time.** ✨
 
 </div>
