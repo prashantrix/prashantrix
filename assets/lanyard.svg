@@ -20,7 +20,7 @@
  <text x="210" y="142" font-family="monospace" font-size="12" letter-spacing="2" text-anchor="middle" fill="#ff71d6">ANALYST ACCESS / 042</text>
  <circle cx="210" cy="207" r="77" fill="#15152a" stroke="url(#pink)" stroke-width="3"/>
  <g clip-path="url(#portrait)">
-  <image xlink:href="https://raw.githubusercontent.com/prashantrix/prashantrix/main/assets/anime-data-analyst.png" href="https://raw.githubusercontent.com/prashantrix/prashantrix/main/assets/anime-data-analyst.png" x="126" y="137" width="168" height="157" preserveAspectRatio="xMidYMin slice"/>
+  <image xlink:href="https://raw.githubusercontent.com/prashantrix/prashantrix/main/assets/anime-data-analyst.png?v=2" href="https://raw.githubusercontent.com/prashantrix/prashantrix/main/assets/anime-data-analyst.png?v=2" x="126" y="137" width="168" height="157" preserveAspectRatio="xMidYMin slice"/>
  </g>
  <circle cx="210" cy="207" r="77" fill="none" stroke="#ffffff" stroke-opacity=".2" stroke-width="1.5"/>
  <text x="210" y="320" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#fff5ff">PRASHANT</text>
