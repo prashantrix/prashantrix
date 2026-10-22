@@ -1,36 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="t d">
-<title id="t">How Prashant approaches analytics</title><desc id="d">A custom animated panel showing a data workflow and the analyst's approach.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081421"/><stop offset="1" stop-color="#17102d"/></linearGradient><linearGradient id="line"><stop stop-color="#ff4fc8"/><stop offset=".55" stop-color="#9b7bff"/><stop offset="1" stop-color="#ff76c8"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="3" y="3" width="1274" height="384" rx="25" fill="url(#bg)" stroke="#34415d" stroke-width="2"/>
-<path d="M0 95H1280 M0 285H1280" stroke="#b1c3ff" stroke-opacity=".06"/>
-<text x="42" y="48" fill="#9ba8c6" font-family="monospace" font-size="15" letter-spacing="3">01 / MY APPROACH</text>
-<text x="42" y="82" fill="#f5f7ff" font-family="Arial,sans-serif" font-size="30" font-weight="700">From raw data to useful decisions.</text>
-<g transform="translate(42 126)">
-<rect width="250" height="205" rx="16" fill="#0b1020" stroke="#3a4262"/>
-<text x="22" y="34" fill="#41dfd0" font-family="monospace" font-size="14">01 · COLLECT</text>
-<g transform="translate(24 55)" fill="none" stroke="#ff4fc8" stroke-width="2"><ellipse cx="42" cy="11" rx="36" ry="10"/><path d="M6 11V66C6 80 78 80 78 66V11 M6 36C6 49 78 49 78 36"/></g>
-<g fill="#a1b2d3" font-family="Arial" font-size="15"><text x="22" y="162">Connect sources</text><text x="22" y="184">Validate the data</text></g>
-</g>
-<path d="M302 226H330" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/><path d="M322 218l8 8-8 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
-<g transform="translate(340 126)">
-<rect width="250" height="205" rx="16" fill="#0b1020" stroke="#51416f"/>
-<text x="22" y="34" fill="#b9a2ff" font-family="monospace" font-size="14">02 · ANALYZE</text>
-<g transform="translate(25 58)" fill="none" stroke="#b9a2ff" stroke-width="2"><path d="M0 73H190 M0 0V73"/><path d="M5 60L42 47 76 54 113 23 151 35 185 5" stroke="#ff78ca" stroke-width="3"/><circle cx="113" cy="23" r="4" fill="#ff78ca"/></g>
-<g fill="#a1b2d3" font-family="Arial" font-size="15"><text x="22" y="162">Find patterns</text><text x="22" y="184">Test assumptions</text></g>
-</g>
-<path d="M600 226H628" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/><path d="M620 218l8 8-8 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
-<g transform="translate(638 126)">
-<rect width="250" height="205" rx="16" fill="#0b1020" stroke="#59416f"/>
-<text x="22" y="34" fill="#ff87d2" font-family="monospace" font-size="14">03 · COMMUNICATE</text>
-<g transform="translate(26 59)"><rect x="0" y="0" width="196" height="74" rx="8" fill="#14172b" stroke="#484366"/><rect x="15" y="14" width="70" height="7" rx="3" fill="#6c4c9e"/><rect x="15" y="30" width="115" height="6" rx="3" fill="#3e8f95"/><rect x="15" y="45" width="91" height="6" rx="3" fill="#bf6ca7"/><path d="M151 55V38h11v17 M169 55V23h11v32" stroke="#ff4fc8" stroke-width="8" fill="none"/></g>
-<g fill="#a1b2d3" font-family="Arial" font-size="15"><text x="22" y="162">Build clear dashboards</text><text x="22" y="184">Explain what matters</text></g>
-</g>
-<g transform="translate(936 125)">
-<rect width="300" height="206" rx="16" fill="#10152a" stroke="#344d65"/>
-<text x="22" y="34" fill="#ff4fc8" font-family="monospace" font-size="14">ANALYST MINDSET</text>
-<g font-family="Arial" font-size="18" fill="#f5f7ff"><text x="22" y="77">Curiosity first.</text><text x="22" y="111">Evidence over guesses.</text><text x="22" y="145">Clarity over complexity.</text></g>
-<path d="M22 170H274" stroke="url(#line)" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 252;252 0" dur="3.2s" repeatCount="indefinite"/></path>
-<text x="22" y="192" fill="#8e9ab9" font-family="monospace" font-size="11">LEARN · MEASURE · IMPROVE</text>
-</g>
-<circle cx="1225" cy="60" r="4" fill="#ff76c8" filter="url(#g)"><animate attributeName="opacity" values=".3;1;.3" dur="2.1s" repeatCount="indefinite"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="t d">
+<title id="t">How Prashant thinks through an analytics problem</title><desc id="d">A polished three-step analytics workflow from messy source data to insights and communication.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#1b0e2a"/></linearGradient><linearGradient id="accent"><stop stop-color="#ff5dcf"/><stop offset=".55" stop-color="#a98aff"/><stop offset="1" stop-color="#4de2d8"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="2" y="2" width="1276" height="376" rx="25" fill="url(#bg)" stroke="#3f365b" stroke-width="1.5"/>
+<g opacity=".13" stroke="#a9b7d3"><path d="M0 108H1280M0 310H1280"/><path d="M40 0V380M90 0V380M1190 0V380M1240 0V380"/></g>
+<text x="40" y="41" font-family="monospace" font-size="13" letter-spacing="3" fill="#a99bbd">01 / HOW I WORK</text>
+<text x="40" y="83" font-family="Arial,Helvetica,sans-serif" font-size="31" font-weight="700" fill="#f8f3ff">Good analysis starts with better questions.</text>
+<text x="40" y="113" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#bdb5d0">I don't stop at charts — I look for the decision behind the data.</text>
+<!-- connector flow -->
+<path d="M300 225H422M707 225H828" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="7 7"><animate attributeName="stroke-dashoffset" values="0;-56" dur="3s" repeatCount="indefinite"/></path>
+<!-- step one -->
+<g transform="translate(38 145)"><rect width="340" height="176" rx="17" fill="#101323" stroke="#ff60ce"/><rect x="18" y="18" width="40" height="28" rx="8" fill="#3b1639" stroke="#ff6bd1"/><text x="38" y="37" text-anchor="middle" font-family="monospace" font-size="13" fill="#ffe5fa">01</text><text x="74" y="37" font-family="Arial" font-size="17" font-weight="700" fill="#ffe7fa">COLLECT &amp; CLEAN</text>
+<g transform="translate(22 65)" fill="none" stroke="#ff70d4" stroke-width="2"><ellipse cx="30" cy="9" rx="25" ry="8"/><path d="M5 9V50C5 61 55 61 55 50V9M5 28C5 39 55 39 55 28"/></g><g font-family="Arial" font-size="14" fill="#c9c2d8"><text x="100" y="83">Check the source</text><text x="100" y="108">Fix quality issues</text><text x="100" y="133">Validate assumptions</text></g><path d="M22 148H316" stroke="#352844"/><text x="22" y="165" font-family="monospace" font-size="11" fill="#ff91dc">TRUST THE INPUT</text></g>
+<!-- step two -->
+<g transform="translate(442 145)"><rect width="340" height="176" rx="17" fill="#101323" stroke="#a889ff"/><rect x="18" y="18" width="40" height="28" rx="8" fill="#261a43" stroke="#ac8aff"/><text x="38" y="37" text-anchor="middle" font-family="monospace" font-size="13" fill="#f2e9ff">02</text><text x="74" y="37" font-family="Arial" font-size="17" font-weight="700" fill="#f0e7ff">ANALYZE &amp; TEST</text>
+<g transform="translate(24 67)" fill="none" stroke="#ac8aff" stroke-width="2.4"><path d="M0 50V10M0 50H64"/><rect x="10" y="29" width="9" height="21" rx="2" fill="#ac8aff" fill-opacity=".25"/><rect x="28" y="19" width="9" height="31" rx="2" fill="#ac8aff" fill-opacity=".45"/><rect x="46" y="5" width="9" height="45" rx="2" fill="#ac8aff" fill-opacity=".7"/><path d="M7 36L25 27L38 31L59 7" stroke="#f4c7ff"><animate attributeName="stroke-dasharray" values="0 100;100 0" dur="2s" repeatCount="indefinite"/></path></g><g font-family="Arial" font-size="14" fill="#c9c2d8"><text x="112" y="83">Find useful patterns</text><text x="112" y="108">Compare segments</text><text x="112" y="133">Challenge assumptions</text></g><path d="M22 148H316" stroke="#352844"/><text x="22" y="165" font-family="monospace" font-size="11" fill="#bea8ff">ASK WHY, NOT JUST WHAT</text></g>
+<!-- step three -->
+<g transform="translate(846 145)"><rect width="396" height="176" rx="17" fill="#101323" stroke="#4adfd5"/><rect x="18" y="18" width="40" height="28" rx="8" fill="#123139" stroke="#4adfd5"/><text x="38" y="37" text-anchor="middle" font-family="monospace" font-size="13" fill="#d9fffa">03</text><text x="74" y="37" font-family="Arial" font-size="17" font-weight="700" fill="#d8fffa">EXPLAIN &amp; IMPROVE</text>
+<g transform="translate(23 72)" fill="none" stroke="#50e2d8" stroke-width="2"><rect x="0" y="0" width="65" height="48" rx="6"/><path d="M9 36V27H18V36M26 36V18H35V36M43 36V9H52V36"/><path d="M7 41H58" stroke-opacity=".4"/></g><g font-family="Arial" font-size="14" fill="#c9c2d8"><text x="112" y="83">Build useful views</text><text x="112" y="108">Show what matters</text><text x="112" y="133">Support the next action</text></g><path d="M22 148H372" stroke="#294446"/><text x="22" y="165" font-family="monospace" font-size="11" fill="#7df2e8">MAKE THE ANSWER USABLE</text></g>
+<text x="40" y="356" font-family="monospace" font-size="12" letter-spacing="1.5" fill="#8f85aa">CURIOSITY FIRST <tspan fill="#ff61ce">✦</tspan> EVIDENCE OVER GUESSES <tspan fill="#4ee3d9">✦</tspan> CLARITY OVER COMPLEXITY</text>
 </svg>
