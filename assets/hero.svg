@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="540" viewBox="0 0 1280 540" role="img" aria-labelledby="title desc">
+<title id="title">Prashant Kashyap — Data Analyst and AI Enthusiast</title>
+<desc id="desc">Original animated neon developer hero with a stylized anime-inspired analyst, dashboard holograms, and animated role text.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08121f"/><stop offset=".54" stop-color="#10162b"/><stop offset="1" stop-color="#20102f"/></linearGradient>
+  <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#40e0d0"><animate attributeName="stop-color" values="#40e0d0;#a78bfa;#ff76c8;#40e0d0" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#ff76c8"><animate attributeName="stop-color" values="#ff76c8;#40e0d0;#a78bfa;#ff76c8" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#a78bfa" stop-opacity=".35"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8ea5ca" stroke-opacity=".08"/></pattern>
+  <clipPath id="round"><rect width="1280" height="540" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1280" height="540" fill="url(#bg)"/><rect width="1280" height="540" fill="url(#grid)"/>
+<circle cx="920" cy="255" r="300" fill="url(#halo)"><animate attributeName="r" values="270;320;270" dur="7s" repeatCount="indefinite"/></circle>
+<rect x="3" y="3" width="1274" height="534" rx="24" fill="none" stroke="url(#neon)" stroke-width="2" stroke-opacity=".82"/>
+<text x="54" y="54" font-family="monospace" font-size="15" letter-spacing="3" fill="#95a5c4">PRASHANTRIX / DIGITAL SPACE</text>
+<text x="54" y="112" font-family="Arial,sans-serif" font-size="23" fill="#40e0d0">HELLO, WORLD. I'M</text>
+<text x="50" y="178" font-family="Arial,sans-serif" font-weight="800" font-size="57" fill="#f5f7ff">PRASHANT</text>
+<text x="50" y="239" font-family="Arial,sans-serif" font-weight="800" font-size="57" fill="url(#neon)" filter="url(#glow)">KASHYAP</text>
+<path d="M54 260H540" stroke="url(#neon)" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 500;500 0;0 500" dur="6s" repeatCount="indefinite"/></path>
+<text x="54" y="302" font-family="Arial,sans-serif" font-size="23" font-weight="600" fill="#ecebff">Data Analyst <tspan fill="#ff76c8">·</tspan> AI Enthusiast</text>
+<text x="54" y="338" font-family="Arial,sans-serif" font-size="18" fill="#aab7d1">Turning data into insights, one query at a time.</text>
+<g font-family="monospace" font-size="13" fill="#bfcce4">
+<rect x="54" y="370" width="420" height="42" rx="8" fill="#0a101d" stroke="#3a4d66"/><text x="70" y="396" fill="#40e0d0">prashant@analytics:~$</text><text x="255" y="396" fill="#f5f7ff">build insight<span><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></span></text>
+</g>
+<g font-family="Arial,sans-serif" font-size="14" font-weight="700">
+<g><rect x="54" y="435" width="67" height="32" rx="16" fill="#102b34" stroke="#40e0d0"/><text x="87" y="456" fill="#d8fffa" text-anchor="middle">SQL</text></g>
+<g><rect x="130" y="435" width="82" height="32" rx="16" fill="#201638" stroke="#a78bfa"/><text x="171" y="456" fill="#ece2ff" text-anchor="middle">Excel</text></g>
+<g><rect x="221" y="435" width="104" height="32" rx="16" fill="#2a1630" stroke="#ff76c8"/><text x="273" y="456" fill="#ffe4f6" text-anchor="middle">Power BI</text></g>
+<g><rect x="334" y="435" width="87" height="32" rx="16" fill="#102b34" stroke="#40e0d0"/><text x="377" y="456" fill="#d8fffa" text-anchor="middle">Python</text></g>
+<g><rect x="430" y="435" width="125" height="32" rx="16" fill="#201638" stroke="#a78bfa"/><text x="492" y="456" fill="#ece2ff" text-anchor="middle">PostgreSQL</text></g>
+</g>
+<!-- Vector anime-inspired analyst portrait -->
+<g transform="translate(730 68)">
+  <ellipse cx="230" cy="376" rx="190" ry="22" fill="#02050b" opacity=".5"/>
+  <ellipse cx="242" cy="205" rx="222" ry="222" fill="none" stroke="#33445e" stroke-width="1" stroke-dasharray="4 10"><animateTransform attributeName="transform" type="rotate" from="0 242 205" to="360 242 205" dur="70s" repeatCount="indefinite"/></ellipse>
+  <circle cx="242" cy="205" r="170" fill="#101d32" stroke="url(#neon)" stroke-width="2" stroke-opacity=".7"/>
+  <!-- back hair -->
+  <path d="M132 188Q105 102 171 63Q242 17 306 65Q375 96 353 201L334 246H145Z" fill="#121626" stroke="#5f68a5" stroke-width="2"/>
+  <path d="M149 130Q174 57 221 77L195 42Q250 48 264 80Q294 43 327 81L300 88Q362 113 343 171L319 145L311 220H161Z" fill="#20253d"/>
+  <!-- neck and hoodie -->
+  <path d="M201 244L204 291L273 291L278 242" fill="#b56e70"/>
+  <path d="M117 373Q122 299 186 273L215 257L246 293L278 258Q345 282 368 373Z" fill="#e5e8ef" stroke="#8fa2c7" stroke-width="3"/>
+  <path d="M199 275L242 315L283 275L267 365H218Z" fill="#202239"/>
+  <path d="M218 300L239 321L261 300" fill="none" stroke="#40e0d0" stroke-width="2"/>
+  <path d="M163 290L187 343L176 373 M323 290L298 343L311 373" fill="none" stroke="#b0bdd5" stroke-width="3"/>
+  <!-- face -->
+  <path d="M169 132Q176 81 240 82Q306 82 316 136L303 209Q284 252 242 255Q198 251 180 208Z" fill="#e7ac91" stroke="#aa7c86" stroke-width="2"/>
+  <path d="M169 154Q150 93 193 71Q228 38 274 61Q325 69 322 134L306 119L293 102L273 122L255 91L232 115L213 99L185 142L177 180Z" fill="#191b2d" stroke="#555e91" stroke-width="2"/>
+  <path d="M179 146Q199 125 220 142L214 157Q194 147 180 163Z" fill="#25233a"/>
+  <path d="M263 142Q286 124 305 144L301 160Q283 146 265 158Z" fill="#25233a"/>
+  <g fill="#20243a"><ellipse cx="201" cy="158" rx="12" ry="6"/><ellipse cx="283" cy="158" rx="12" ry="6"/></g>
+  <g fill="#f8e8dc"><circle cx="204" cy="156" r="3"/><circle cx="280" cy="156" r="3"/></g>
+  <path d="M241 157L234 181L247 184" fill="none" stroke="#ba8079" stroke-width="3" stroke-linecap="round"/>
+  <path d="M220 203Q241 218 262 201" fill="none" stroke="#8f4f5f" stroke-width="3" stroke-linecap="round"/>
+  <!-- ear and neon ear highlight -->
+  <path d="M174 161Q154 154 162 184Q168 196 180 186 M308 160Q328 154 320 184Q314 196 303 186" fill="#e7ac91" stroke="#aa7c86" stroke-width="2"/>
+  <path d="M177 116Q204 76 234 95 M262 91Q296 70 315 115" fill="none" stroke="#40e0d0" stroke-width="4" stroke-linecap="round" filter="url(#glow)"/>
+  <!-- laptop -->
+  <path d="M158 319L328 319L354 367L133 367Z" fill="#171b2e" stroke="#40e0d0" stroke-width="2"/>
+  <path d="M133 367H354L342 378H147Z" fill="#71809d" stroke="#a9b7d5" stroke-width="1"/>
+  <rect x="177" y="328" width="132" height="29" rx="4" fill="#0c1725" stroke="#435978"/>
+  <path d="M191 337H234 M191 344H218 M244 337H293 M244 344H282" stroke="#40e0d0" stroke-width="2" stroke-linecap="round"/>
+</g>
+<!-- holographic analytics -->
+<g transform="translate(932 100)">
+  <rect width="260" height="95" rx="12" fill="#091522" fill-opacity=".9" stroke="#40e0d0" stroke-opacity=".65"/>
+  <text x="16" y="23" font-family="monospace" font-size="11" fill="#40e0d0">DATA SIGNAL / 01</text>
+  <path d="M16 70L52 53L83 61L122 37L154 48L197 28L243 35" stroke="#ff76c8" stroke-width="2.5" fill="none"/>
+  <path d="M16 77H242" stroke="#42516f"/>
+  <circle cx="197" cy="28" r="4" fill="#ff76c8"><animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<g transform="translate(1000 350)">
+  <rect width="191" height="78" rx="12" fill="#0a1524" stroke="#a78bfa" stroke-opacity=".7"/>
+  <text x="14" y="23" font-family="monospace" font-size="10" fill="#b9a2ff">INSIGHT STATUS</text>
+  <rect x="14" y="37" width="162" height="8" rx="4" fill="#222c46"/>
+  <rect x="14" y="37" width="118" height="8" rx="4" fill="url(#neon)"><animate attributeName="width" values="70;150;70" dur="4s" repeatCount="indefinite"/></rect>
+  <text x="14" y="64" font-family="monospace" font-size="10" fill="#aab7d1">CLEAN · QUERY · VISUALIZE</text>
+</g>
+<g fill="#f4ecff">
+  <circle cx="701" cy="142" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" repeatCount="indefinite"/></circle>
+  <circle cx="1199" cy="265" r="4"><animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="872" cy="440" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.2s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="16" y="0" width="1248" height="3" fill="#40e0d0" opacity=".7" filter="url(#glow)"><animate attributeName="y" values="20;520;20" dur="7s" repeatCount="indefinite"/></rect>
+<text x="54" y="506" font-family="monospace" font-size="13" fill="#71829f">ANALYZE / VISUALIZE / AUTOMATE / REPEAT</text>
+<text x="1220" y="506" text-anchor="end" font-family="monospace" font-size="13" fill="#71829f">GITHUB.COM/PRASHANTRIX</text>
+</g></svg>
