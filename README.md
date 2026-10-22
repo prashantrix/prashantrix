@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=4" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%"/>
+<img src="./assets/hero.svg?v=5" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYTICS MINDSET -->
-<img src="./assets/about-life.svg?v=4" alt="How I turn raw data into useful decisions" width="100%"/>
+<img src="./assets/about-life.svg?v=5" alt="How I turn raw data into useful decisions" width="100%"/>
 
 <br/><br/>
 
 <!-- TOOLS -->
-<img src="./assets/stack.svg?v=4" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
+<img src="./assets/stack.svg?v=5" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=4" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=5" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -24,13 +24,15 @@
 
 ## 📊 Featured analytics projects
 
+*A selection of dashboards and data-analysis builds.*
+
 | Project | Focus | Tools |
 |:---|:---|:---|
-| [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Crop-season comparisons, yield, profitability, water efficiency and risk | Python · Data Analysis |
-| [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction, user and regional trends across India | Power BI |
-| [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales, profit and order trends using cleaned Excel data | Excel · Power BI |
-| [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile brand sales, ratings and trend analysis | Power Query · DAX · Power BI |
-| [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Revenue, sales patterns and top-selling pizzas | T-SQL · DAX · Power Query |
+| 🌾 [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Crop-season comparisons, yield, profitability, water efficiency and risk | Python · Data Analysis |
+| 💳 [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction, user and regional trends across India | Power BI |
+| 🛒 [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales, profit and order trends using cleaned Excel data | Excel · Power BI |
+| 📱 [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile brand sales, ratings and trend analysis | Power Query · DAX · Power BI |
+| 🍕 [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Revenue, sales patterns and top-selling pizzas | T-SQL · DAX · Power Query |
 
 ## 🌃 My contribution city
 
@@ -38,7 +40,7 @@
 
 *My GitHub activity, visualized as a 3D contribution landscape.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg?v=4" alt="3D GitHub contribution landscape" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-view.svg?v=5" alt="3D GitHub contribution landscape" width="100%"/>
 
 <br/><br/>
 
@@ -48,7 +50,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=4" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=5" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
