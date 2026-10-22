@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=7" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%"/>
+<img src="./assets/hero.svg?v=8" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYTICS MINDSET -->
-<img src="./assets/about-life.svg?v=7" alt="How I turn raw data into useful decisions" width="100%"/>
+<img src="./assets/about-life.svg?v=8" alt="How I turn raw data into useful decisions" width="100%"/>
 
 <br/><br/>
 
 <!-- TOOLS -->
-<img src="./assets/stack.svg?v=7" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
+<img src="./assets/stack.svg?v=8" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=7" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=8" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -40,7 +40,7 @@
 
 *My GitHub activity, visualized as a 3D contribution landscape.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg?v=7" alt="3D GitHub contribution landscape" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-view.svg?v=8" alt="3D GitHub contribution landscape" width="100%"/>
 
 <br/><br/>
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=7" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=8" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
