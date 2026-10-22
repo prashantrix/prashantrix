@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="t d">
 <title id="t">Connect with Prashant Kashyap</title><desc id="d">An animated call-to-action inviting people to connect about data analysis, dashboards, and automation.</desc>
-<defs><linearGradient id="bg"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#1b1030"/></linearGradient><linearGradient id="c"><stop stop-color="#40e0d0"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff76c8"/></linearGradient></defs>
+<defs><linearGradient id="bg"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#1b1030"/></linearGradient><linearGradient id="c"><stop stop-color="#ff4fc8"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff76c8"/></linearGradient></defs>
 <rect x="3" y="3" width="1274" height="254" rx="25" fill="url(#bg)" stroke="#35415c" stroke-width="2"/>
 <g opacity=".14" stroke="#a1b4d4"><path d="M30 0V260 M80 0V260 M130 0V260 M1180 0V260 M1230 0V260"/><path d="M0 50H1280 M0 100H1280 M0 150H1280 M0 200H1280"/></g>
 <circle cx="1080" cy="110" r="79" fill="#7c3aed" opacity=".12"><animate attributeName="r" values="70;88;70" dur="5s" repeatCount="indefinite"/></circle>
 <text x="48" y="53" font-family="monospace" font-size="14" letter-spacing="3" fill="#9ba8c6">04 / LET'S CONNECT</text>
 <text x="48" y="111" font-family="Arial,sans-serif" font-size="36" font-weight="700" fill="#f5f7ff">Have a data problem worth solving?</text>
 <text x="48" y="151" font-family="Arial,sans-serif" font-size="20" fill="#a9b6d0">Let's turn your questions into clear insights and useful dashboards.</text>
-<rect x="48" y="177" width="235" height="46" rx="23" fill="#132b35" stroke="#40e0d0"/><text x="165" y="205" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#d8fffa">GITHUB / @PRASHANTRIX</text>
+<rect x="48" y="177" width="235" height="46" rx="23" fill="#27142f" stroke="#ff4fc8"/><text x="165" y="205" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#ffe1f7">GITHUB / @PRASHANTRIX</text>
 <rect x="300" y="177" width="330" height="46" rx="23" fill="#23152f" stroke="#ff76c8"/><text x="465" y="205" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700" fill="#ffe4f6">PRASHANTKASHYAP742369@GMAIL.COM</text>
 <g transform="translate(1005 64)" fill="none" stroke="url(#c)" stroke-width="3"><circle cx="62" cy="52" r="52"/><circle cx="62" cy="52" r="36" stroke-dasharray="8 7"><animateTransform attributeName="transform" type="rotate" from="0 62 52" to="360 62 52" dur="16s" repeatCount="indefinite"/></circle><path d="M30 52H94 M62 20V84"/><circle cx="62" cy="52" r="7" fill="#ff76c8" stroke="none"/></g>
 </svg>
