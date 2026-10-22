@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250">
+<defs><linearGradient id="g"><stop stop-color="#ff4fd8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="3" y="3" width="794" height="244" rx="22" fill="#0c0918" stroke="url(#g)" stroke-width="2"/>
+<text x="30" y="43" fill="#f9eaff" font-family="Arial" font-size="23" font-weight="700">GITHUB / LOCAL PROFILE CARD</text>
+<text x="30" y="76" fill="#b8a5d7" font-family="Arial" font-size="14">Decorative local card • values are not live GitHub metrics</text>
+<g transform="translate(60 100)"><circle cx="55" cy="55" r="43" fill="none" stroke="#312344" stroke-width="11"/><circle cx="55" cy="55" r="43" fill="none" stroke="url(#g)" stroke-width="11" stroke-dasharray="190 270" stroke-linecap="round" transform="rotate(-90 55 55)" filter="url(#glow)"/><text x="55" y="61" text-anchor="middle" fill="#fff" font-family="Arial" font-size="20" font-weight="700">DATA</text></g>
+<g font-family="Arial"><text x="205" y="132" fill="#b8a5d7" font-size="14">FOCUS</text><text x="205" y="160" fill="#fff" font-size="23" font-weight="700">Analytics &amp; Automation</text><text x="205" y="194" fill="#b8a5d7" font-size="14">STACK</text><text x="205" y="220" fill="#ff8ee5" font-size="19">SQL · Excel · Power BI · Python</text></g></svg>
