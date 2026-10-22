@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="t d">
 <title id="t">How Prashant approaches analytics</title><desc id="d">A custom animated panel showing a data workflow and the analyst's approach.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081421"/><stop offset="1" stop-color="#17102d"/></linearGradient><linearGradient id="line"><stop stop-color="#40e0d0"/><stop offset=".55" stop-color="#9b7bff"/><stop offset="1" stop-color="#ff76c8"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081421"/><stop offset="1" stop-color="#17102d"/></linearGradient><linearGradient id="line"><stop stop-color="#ff4fc8"/><stop offset=".55" stop-color="#9b7bff"/><stop offset="1" stop-color="#ff76c8"/></linearGradient><filter id="g"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <rect x="3" y="3" width="1274" height="384" rx="25" fill="url(#bg)" stroke="#34415d" stroke-width="2"/>
 <path d="M0 95H1280 M0 285H1280" stroke="#b1c3ff" stroke-opacity=".06"/>
 <text x="42" y="48" fill="#9ba8c6" font-family="monospace" font-size="15" letter-spacing="3">01 / MY APPROACH</text>
@@ -8,7 +8,7 @@
 <g transform="translate(42 126)">
 <rect width="250" height="205" rx="16" fill="#0b1020" stroke="#3a4262"/>
 <text x="22" y="34" fill="#41dfd0" font-family="monospace" font-size="14">01 · COLLECT</text>
-<g transform="translate(24 55)" fill="none" stroke="#40e0d0" stroke-width="2"><ellipse cx="42" cy="11" rx="36" ry="10"/><path d="M6 11V66C6 80 78 80 78 66V11 M6 36C6 49 78 49 78 36"/></g>
+<g transform="translate(24 55)" fill="none" stroke="#ff4fc8" stroke-width="2"><ellipse cx="42" cy="11" rx="36" ry="10"/><path d="M6 11V66C6 80 78 80 78 66V11 M6 36C6 49 78 49 78 36"/></g>
 <g fill="#a1b2d3" font-family="Arial" font-size="15"><text x="22" y="162">Connect sources</text><text x="22" y="184">Validate the data</text></g>
 </g>
 <path d="M302 226H330" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/><path d="M322 218l8 8-8 8" fill="none" stroke="#a78bfa" stroke-width="3"/>
@@ -22,12 +22,12 @@
 <g transform="translate(638 126)">
 <rect width="250" height="205" rx="16" fill="#0b1020" stroke="#59416f"/>
 <text x="22" y="34" fill="#ff87d2" font-family="monospace" font-size="14">03 · COMMUNICATE</text>
-<g transform="translate(26 59)"><rect x="0" y="0" width="196" height="74" rx="8" fill="#14172b" stroke="#484366"/><rect x="15" y="14" width="70" height="7" rx="3" fill="#6c4c9e"/><rect x="15" y="30" width="115" height="6" rx="3" fill="#3e8f95"/><rect x="15" y="45" width="91" height="6" rx="3" fill="#bf6ca7"/><path d="M151 55V38h11v17 M169 55V23h11v32" stroke="#40e0d0" stroke-width="8" fill="none"/></g>
+<g transform="translate(26 59)"><rect x="0" y="0" width="196" height="74" rx="8" fill="#14172b" stroke="#484366"/><rect x="15" y="14" width="70" height="7" rx="3" fill="#6c4c9e"/><rect x="15" y="30" width="115" height="6" rx="3" fill="#3e8f95"/><rect x="15" y="45" width="91" height="6" rx="3" fill="#bf6ca7"/><path d="M151 55V38h11v17 M169 55V23h11v32" stroke="#ff4fc8" stroke-width="8" fill="none"/></g>
 <g fill="#a1b2d3" font-family="Arial" font-size="15"><text x="22" y="162">Build clear dashboards</text><text x="22" y="184">Explain what matters</text></g>
 </g>
 <g transform="translate(936 125)">
 <rect width="300" height="206" rx="16" fill="#10152a" stroke="#344d65"/>
-<text x="22" y="34" fill="#40e0d0" font-family="monospace" font-size="14">ANALYST MINDSET</text>
+<text x="22" y="34" fill="#ff4fc8" font-family="monospace" font-size="14">ANALYST MINDSET</text>
 <g font-family="Arial" font-size="18" fill="#f5f7ff"><text x="22" y="77">Curiosity first.</text><text x="22" y="111">Evidence over guesses.</text><text x="22" y="145">Clarity over complexity.</text></g>
 <path d="M22 170H274" stroke="url(#line)" stroke-width="3" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 252;252 0" dur="3.2s" repeatCount="indefinite"/></path>
 <text x="22" y="192" fill="#8e9ab9" font-family="monospace" font-size="11">LEARN · MEASURE · IMPROVE</text>
