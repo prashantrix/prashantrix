@@ -1,1 +1,0 @@
-Animated GitHub profile package for prashantrix\nGenerated locally; not uploaded to GitHub.\nSee SETUP.md before committing.\n
