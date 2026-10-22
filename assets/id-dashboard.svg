@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="t d">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-labelledby="t d">
 <title id="t">Prashant Kashyap analyst profile dashboard</title><desc id="d">A custom developer ID card and a dashboard illustration showing analytical thinking.</desc>
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081421"/><stop offset="1" stop-color="#17102d"/></linearGradient><linearGradient id="c"><stop stop-color="#ff4fc8"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#ff76c8"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><clipPath id="idportrait"><circle cx="143" cy="151" r="40"/></clipPath></defs>
 <rect x="3" y="3" width="1274" height="384" rx="25" fill="url(#bg)" stroke="#34415d" stroke-width="2"/>
