@@ -2,29 +2,29 @@
 
 <!-- Animated image-based hero: dark/light theme versions are embedded SVG assets. -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=2">
-  <img src="./assets/banner.svg?v=2" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg?v=3">
+  <img src="./assets/banner.svg?v=3" alt="Prashant Kashyap — Data Analyst and AI Enthusiast" width="100%">
 </picture>
 
 <br><br>
 
 <!-- Swinging ID badge from the animation guide -->
-<img src="./assets/lanyard.svg?v=2" alt="Animated analyst ID badge for Prashant Kashyap" width="250">
+<img src="./assets/lanyard.svg?v=3" alt="Animated analyst ID badge for Prashant Kashyap" width="250">
 
 <br><br>
 
 <!-- About and life beyond the code -->
-<img src="./assets/about-life.svg?v=2" alt="How I turn raw data into useful insights" width="100%">
+<img src="./assets/about-life.svg?v=3" alt="How I turn raw data into useful insights" width="100%">
 
 <br><br>
 
 <!-- Tech stack -->
-<img src="./assets/stack.svg?v=2" alt="Analytics technology stack" width="100%">
+<img src="./assets/stack.svg?v=3" alt="Analytics technology stack" width="100%">
 
 <br><br>
 
 <!-- Developer ID and dashboard -->
-<img src="./assets/id-dashboard.svg?v=2" alt="Analyst ID and dashboard concept" width="100%">
+<img src="./assets/id-dashboard.svg?v=3" alt="Analyst ID and dashboard concept" width="100%">
 
 </div>
 
@@ -37,6 +37,17 @@
 | [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales performance, revenue patterns, and reporting | Power BI · Excel |
 | [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile sales trends and KPI reporting | Power BI · DAX |
 | [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Sales analysis and business reporting | SQL · Power BI |
+
+
+## ✨ Local animated cards
+
+<div align="center">
+  <img src="./assets/stats.svg?v=3" alt="Animated local profile focus card; decorative and not live counts" width="49%">
+  <img src="./assets/langs.svg?v=3" alt="Animated skills focus card; emphasis is illustrative, not language statistics" width="49%">
+  <img src="./assets/trophies.svg?v=3" alt="Decorative analytics achievement wall; not official GitHub trophies" width="86%">
+</div>
+
+> These are locally hosted animated designs, not fabricated live statistics. GitHub's live contribution counts are shown in the generated contribution calendar below.
 
 ## 🌃 My contribution city
 
@@ -68,7 +79,7 @@
 ## 💌 Let's connect
 
 <div align="center">
-  <img src="./assets/connect.svg?v=2" alt="Connect with Prashant about data analysis and dashboards" width="100%">
+  <img src="./assets/connect.svg?v=3" alt="Connect with Prashant about data analysis and dashboards" width="100%">
 
   <br><br>
 
