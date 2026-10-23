@@ -198,11 +198,6 @@
    </g>
   </g>
   <rect x="711" y="92" width="532" height="300" rx="24" fill="none" stroke="#ff62d0" stroke-opacity=".42" stroke-width="1.2"/>
-  <!-- Analyst identity panel: supporting content, not a storyboard of the video. -->
-  <rect x="711" y="405" width="532" height="126" rx="16" fill="#0b0a16" stroke="#4b3b62" stroke-width="1.2"/>
-  <text x="732" y="431" font-family="monospace" font-size="11" letter-spacing="2" fill="#5ce7de">DATA ANALYST / BI ENTHUSIAST</text>
-  <text x="732" y="464" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="800" fill="#ffe7f9">Turning data into meaningful insights.</text>
-  <text x="732" y="488" font-family="monospace" font-size="12" letter-spacing=".8" fill="#c9bde2">SQL  ·  POWER BI  ·  PYTHON  ·  EXCEL  ·  POSTGRESQL</text>
  </g>
  <!-- sparkle dots -->
  <g fill="#fff0ff"><circle cx="694" cy="122" r="2.5"><animate attributeName="opacity" values=".1;1;.1" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="1244" cy="151" r="3"><animate attributeName="opacity" values=".1;1;.1" dur="2s" repeatCount="indefinite"/></circle><circle cx="1220" cy="563" r="2.5"><animate attributeName="opacity" values=".1;1;.1" dur="1.8s" repeatCount="indefinite"/></circle></g>
