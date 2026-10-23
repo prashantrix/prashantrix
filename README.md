@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=22" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
+<img src="./assets/hero.svg?v=23" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
 
 <br/><br/>
 
@@ -22,17 +22,26 @@
 
 </div>
 
+## 🧭 Experience
+
+| Role | Where | When |
+|:---|:---|:---|
+| Data Automation Intern | Springer Capital | Sep 2026 – present |
+| Data Analyst Intern | Edunet Foundation · VOIS for Tech | Aug 2026 – present |
+| Data Analyst — Odoo 13 ERP data validation, reconciliation, QA/UAT | EOXS | Jul 2025 – Aug 2026 |
+| Data Analyst | Codec Technologies India | Aug – Nov 2025 |
+
 ## 📊 Featured analytics projects
 
 *A selection of dashboards and data-analysis builds.*
 
-| Project | Focus | Tools |
-|:---|:---|:---|
-| 🌾 [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Crop-season comparisons, yield, profitability, water efficiency and risk | Python · Data Analysis |
-| 💳 [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction, user and regional trends across India | Power BI |
-| 🛒 [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales, profit and order trends using cleaned Excel data | Excel · Power BI |
-| 📱 [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile brand sales, ratings and trend analysis | Power Query · DAX · Power BI |
-| 🍕 [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Revenue, sales patterns and top-selling pizzas | T-SQL · DAX · Power Query |
+| Project | Focus | Tools | From the project README |
+|:---|:---|:---|:---|
+| 🌾 [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Crop-season comparisons, yield, profitability, water efficiency and risk | Python · Pandas · Seaborn | Kharif strongest overall; Zaid weaker on profit, higher risk |
+| 💳 [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction, user and regional trends across India | Power BI · Power Query | Filters by year, quarter and region; state and district drill-down |
+| 🛒 [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales, profit and order trends using cleaned Excel data | Excel · Power BI | KPI cards, category tree map, profit by state |
+| 📱 [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile brand sales, ratings and trend analysis | Power Query · DAX · Power BI | ₹769M+ total sales; Apple, OnePlus, Samsung lead |
+| 🍕 [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Revenue, sales patterns and top-selling pizzas | T-SQL · DAX · Power Query | ₹817.86K revenue · 48.62K orders · July peak |
 
 ## 🌃 My contribution city
 
@@ -50,11 +59,12 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=10" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=11" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
 <a href="https://github.com/prashantrix"><img src="https://img.shields.io/badge/GitHub-@prashantrix-40e0d0?style=for-the-badge&logo=github&logoColor=0b1020" alt="GitHub profile"/></a>
+<a href="https://www.linkedin.com/in/prashantrix"><img src="https://img.shields.io/badge/LinkedIn-prashantrix-4adfd5?style=for-the-badge&logo=linkedin&logoColor=0b1020" alt="LinkedIn profile"/></a>
 <a href="mailto:prashantkashyap742369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-ff76c8?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=prashantrix&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 

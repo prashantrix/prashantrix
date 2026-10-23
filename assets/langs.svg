@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="290" viewBox="0 0 800 290">
-<defs><linearGradient id="g"><stop stop-color="#ff4fd8"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient></defs><rect x="3" y="3" width="794" height="284" rx="22" fill="#0c0918" stroke="url(#g)" stroke-width="2"/>
-<text x="30" y="44" fill="#f9eaff" font-family="Arial" font-size="23" font-weight="700">TOOLKIT / SKILL FOCUS</text><text x="30" y="70" fill="#b8a5d7" font-family="Arial" font-size="14">Illustrative emphasis, not measured repository language percentages</text>
-<g font-family="Arial" font-size="16" fill="#f4eaff"><text x="32" y="111">SQL</text><text x="32" y="151">Excel</text><text x="32" y="191">Power BI</text><text x="32" y="231">Python</text><text x="32" y="271">PostgreSQL</text></g>
-<g><rect x="170" y="94" width="560" height="19" rx="9" fill="#211633"/><rect x="170" y="94" width="470" height="19" rx="9" fill="url(#g)"><animate attributeName="width" values="0;470" dur="1.6s" fill="freeze"/></rect>
-<rect x="170" y="134" width="560" height="19" rx="9" fill="#211633"/><rect x="170" y="134" width="420" height="19" rx="9" fill="url(#g)"><animate attributeName="width" values="0;420" dur="1.8s" fill="freeze"/></rect>
-<rect x="170" y="174" width="560" height="19" rx="9" fill="#211633"/><rect x="170" y="174" width="450" height="19" rx="9" fill="url(#g)"><animate attributeName="width" values="0;450" dur="2s" fill="freeze"/></rect>
-<rect x="170" y="214" width="560" height="19" rx="9" fill="#211633"/><rect x="170" y="214" width="360" height="19" rx="9" fill="url(#g)"><animate attributeName="width" values="0;360" dur="2.2s" fill="freeze"/></rect>
-<rect x="170" y="254" width="560" height="19" rx="9" fill="#211633"/><rect x="170" y="254" width="390" height="19" rx="9" fill="url(#g)"><animate attributeName="width" values="0;390" dur="2.4s" fill="freeze"/></rect></g></svg>
