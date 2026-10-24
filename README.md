@@ -6,17 +6,17 @@
 <br/><br/>
 
 <!-- ANALYTICS MINDSET -->
-<img src="./assets/about-life.svg?v=10" alt="How I turn raw data into useful decisions" width="100%"/>
+<img src="./assets/about-life.svg?v=11" alt="How I turn raw data into useful decisions" width="100%"/>
 
 <br/><br/>
 
 <!-- TOOLS -->
-<img src="./assets/stack.svg?v=10" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
+<img src="./assets/stack.svg?v=11" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=10" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=11" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -29,7 +29,6 @@
 | Data Automation Intern | Springer Capital | Sep 2026 – present |
 | Data Analyst Intern | Edunet Foundation · VOIS for Tech | Aug 2026 – present |
 | Data Analyst — Odoo 13 ERP data validation, reconciliation, QA/UAT | EOXS | Jul 2025 – Aug 2026 |
-| Data Analyst | Codec Technologies India | Aug – Nov 2025 |
 
 ## 📊 Featured analytics projects
 
@@ -59,7 +58,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=11" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=12" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
