@@ -10,6 +10,11 @@
 
 <br/><br/>
 
+<!-- OFF THE CLOCK -->
+<img src="./assets/off-the-clock.svg?v=5" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
+
+<br/><br/>
+
 <!-- TOOLS -->
 <img src="./assets/stack.svg?v=12" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
@@ -57,11 +62,6 @@
 ## 💌 Let's connect
 
 <div align="center">
-
-<!-- OFF THE CLOCK -->
-<img src="./assets/off-the-clock.svg?v=4" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
-
-<br/><br/>
 
 <img src="./assets/connect.svg?v=15" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
