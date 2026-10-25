@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- OFF THE CLOCK -->
-<img src="./assets/off-the-clock.svg?v=5" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
+<img src="./assets/off-the-clock.svg?v=6" alt="Off the clock: side quests for training, anime, gaming and levelling up" width="100%"/>
 
 <br/><br/>
 
