@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- OFF THE CLOCK: anime and the gym -->
-<img src="./assets/off-the-clock.svg?v=1" alt="Anime and the gym: Dragon Ball, Black Clover, Hajime no Ippo, One Piece, Naruto" width="100%"/>
+<img src="./assets/off-the-clock.svg?v=2" alt="Anime and the gym: Dragon Ball, Black Clover, Hajime no Ippo, One Piece, Naruto" width="100%"/>
 
 <br/><br/>
 
