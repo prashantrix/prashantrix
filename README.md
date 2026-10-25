@@ -10,11 +10,6 @@
 
 <br/><br/>
 
-<!-- OFF THE CLOCK: anime and the gym -->
-<img src="./assets/off-the-clock.svg?v=2" alt="Anime and the gym: Dragon Ball, Black Clover, Hajime no Ippo, One Piece, Naruto" width="100%"/>
-
-<br/><br/>
-
 <!-- TOOLS -->
 <img src="./assets/stack.svg?v=12" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
@@ -62,6 +57,11 @@
 ## 💌 Let's connect
 
 <div align="center">
+
+<!-- BEYOND THE DASHBOARD -->
+<img src="./assets/off-the-clock.svg?v=3" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
+
+<br/><br/>
 
 <img src="./assets/connect.svg?v=14" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
