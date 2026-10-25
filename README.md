@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=24" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
+<img src="./assets/hero.svg?v=25" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
 
 <br/><br/>
 
@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=12" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=13" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=13" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=14" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
