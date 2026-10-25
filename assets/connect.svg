@@ -32,7 +32,7 @@
 </g>
 <g opacity=".1" stroke="#a9b7d3"><path d="M0 330H1280"/><path d="M40 0V390M1240 0V390"/></g>
 <circle cx="1095" cy="190" r="130" fill="#8c50d9" opacity=".09"><animate attributeName="r" values="115;140;115" dur="5s" repeatCount="indefinite"/></circle>
-<text class="jb" x="42" y="45" font-size="13" letter-spacing="3" fill="#aa9bbf">04 / LET'S CONNECT</text>
+<text class="jb" x="42" y="45" font-size="13" letter-spacing="3" fill="#aa9bbf">LET'S CONNECT</text>
 <text class="sg" x="42" y="100" font-size="34" font-weight="700" fill="#faf5ff">Have a data problem worth solving?</text>
 <text class="sg" x="42" y="135" font-size="17" fill="#c5bdd8">I'm interested in analytics, dashboards, process improvement and automation.</text>
 <text class="jb" x="42" y="170" font-size="12" letter-spacing="1.6" fill="#8f87a8">OPEN TO LEARNING, COLLABORATION &amp; OPPORTUNITIES</text>

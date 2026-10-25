@@ -48,7 +48,7 @@
  <rect x="34" y="27" width="1212" height="44" rx="10" fill="#090913" stroke="#524569" stroke-width="1.2"/>
  <circle cx="54" cy="49" r="4.5" fill="#ff638c"/><circle cx="70" cy="49" r="4.5" fill="#ffd166"/><circle cx="86" cy="49" r="4.5" fill="#51e0b5"/>
  <text class="jb" x="105" y="54" font-size="14" fill="#bfb1db">prashant@analytics:~$</text><text class="jb" x="300" y="54" font-size="14" fill="#5ce7dc">whoami <tspan fill="#fff">▍<animate attributeName="opacity" values="1;0;1" dur="1.05s" repeatCount="indefinite"/></tspan></text>
- <text class="jb" x="1217" y="53" text-anchor="end" font-size="11" letter-spacing="2" fill="#8e82ab">PORTFOLIO / 01</text>
+ <text class="jb" x="1217" y="53" text-anchor="end" font-size="11" letter-spacing="2" fill="#8e82ab">PORTFOLIO</text>
  <!-- open to work -->
  <g><rect x="54" y="92" width="176" height="28" rx="14" fill="#0e2a22" stroke="#34d399" stroke-opacity=".8"/><circle cx="73" cy="106" r="4" fill="#34d399"/><circle cx="73" cy="106" r="4" fill="none" stroke="#34d399"><animate attributeName="r" values="4;11" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle><text class="jb" x="88" y="110" font-size="11.5" letter-spacing="2" fill="#a7f3d0">OPEN TO WORK</text></g>
  <!-- identity -->

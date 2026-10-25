@@ -1,12 +1,12 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=26" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
+<img src="./assets/hero.svg?v=27" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYTICS MINDSET -->
-<img src="./assets/about-life.svg?v=12" alt="How I turn raw data into useful decisions" width="100%"/>
+<img src="./assets/about-life.svg?v=13" alt="How I turn raw data into useful decisions" width="100%"/>
 
 <br/><br/>
 
@@ -16,12 +16,12 @@
 <br/><br/>
 
 <!-- TOOLS -->
-<img src="./assets/stack.svg?v=12" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
+<img src="./assets/stack.svg?v=13" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=13" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=14" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=15" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=16" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
