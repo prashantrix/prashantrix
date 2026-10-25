@@ -5,12 +5,13 @@ This is the profile repository for **[@prashantrix](https://github.com/prashantr
 ## Files displayed on the profile
 
 - `README.md` — layout and featured analytics projects.
-- `assets/hero.svg` — animated terminal, name, role, skills, and anime analyst artwork.
+- `assets/hero.svg` — animated terminal, cycling roles, open-to-work pill, and the anime intro clip (72 embedded frames from a camera-stabilised video, shown in a viewfinder frame).
+- `assets/off-the-clock.svg` — anime and gym carousel with story-style progress bars.
 - `assets/about-life.svg` — an analytics workflow and working principles.
 - `assets/stack.svg` — SQL, PostgreSQL, Excel, Python, and Power BI.
 - `assets/id-dashboard.svg` — analyst ID and dashboard concept.
 - `assets/connect.svg` — contact call-to-action.
-- `assets/anime-data-analyst.png` — original artwork used inside the SVGs.
+- `assets/anime-data-analyst.png` — original artwork (no longer used inside the SVGs; kept as a source file).
 - `profile-3d-contrib/profile-night-view.svg` — generated contribution landscape.
 
 ## Workflows
