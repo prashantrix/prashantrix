@@ -1,22 +1,27 @@
 <div align="center">
 
 <!-- HERO: analyst identity, animated terminal and anime artwork -->
-<img src="./assets/hero.svg?v=23" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
+<img src="./assets/hero.svg?v=24" alt="Prashant Kashyap — animated anime data analyst banner" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYTICS MINDSET -->
-<img src="./assets/about-life.svg?v=11" alt="How I turn raw data into useful decisions" width="100%"/>
+<img src="./assets/about-life.svg?v=12" alt="How I turn raw data into useful decisions" width="100%"/>
+
+<br/><br/>
+
+<!-- OFF THE CLOCK: anime and the gym -->
+<img src="./assets/off-the-clock.svg?v=1" alt="Anime and the gym: Dragon Ball, Black Clover, Hajime no Ippo, One Piece, Naruto" width="100%"/>
 
 <br/><br/>
 
 <!-- TOOLS -->
-<img src="./assets/stack.svg?v=11" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
+<img src="./assets/stack.svg?v=12" alt="SQL, PostgreSQL, Excel, Python and Power BI toolkit" width="100%"/>
 
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=11" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=12" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
@@ -58,12 +63,13 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=12" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=13" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
 <a href="https://github.com/prashantrix"><img src="https://img.shields.io/badge/GitHub-@prashantrix-40e0d0?style=for-the-badge&logo=github&logoColor=0b1020" alt="GitHub profile"/></a>
 <a href="https://www.linkedin.com/in/prashantrix"><img src="https://img.shields.io/badge/LinkedIn-prashantrix-4adfd5?style=for-the-badge&logo=linkedin&logoColor=0b1020" alt="LinkedIn profile"/></a>
+<a href="https://www.instagram.com/prashxthetics"><img src="https://img.shields.io/badge/Instagram-prashxthetics-ff76c8?style=for-the-badge&logo=instagram&logoColor=0b1020" alt="Instagram profile"/></a>
 <a href="mailto:prashantkashyap742369@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20connect-ff76c8?style=for-the-badge&logo=gmail&logoColor=0b1020" alt="Email"/></a>
 <img src="https://komarev.com/ghpvc/?username=prashantrix&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
