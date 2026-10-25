@@ -58,8 +58,8 @@
 
 <div align="center">
 
-<!-- BEYOND THE DASHBOARD -->
-<img src="./assets/off-the-clock.svg?v=3" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
+<!-- OFF THE CLOCK -->
+<img src="./assets/off-the-clock.svg?v=4" alt="Anime fan, gym regular: the habits I bring to analytics work" width="100%"/>
 
 <br/><br/>
 
