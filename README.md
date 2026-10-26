@@ -21,7 +21,7 @@
 <br/><br/>
 
 <!-- ANALYST ID AND DASHBOARD CONCEPT -->
-<img src="./assets/id-dashboard.svg?v=14" alt="Analyst ID and dashboard concept" width="100%"/>
+<img src="./assets/id-dashboard.svg?v=15" alt="Analyst ID and dashboard concept" width="100%"/>
 
 <br/><br/>
 
