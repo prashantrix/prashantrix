@@ -63,7 +63,7 @@
 
 <div align="center">
 
-<img src="./assets/connect.svg?v=19" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
+<img src="./assets/connect.svg?v=20" alt="Connect with Prashant about analytics, dashboards and automation" width="100%"/>
 
 <br/><br/>
 
