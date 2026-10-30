@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- OFF THE CLOCK -->
-<img src="./assets/off-the-clock.svg?v=7" alt="Off the clock: my character training, watching anime, gaming and levelling up" width="100%"/>
+<img src="./assets/off-the-clock.svg?v=8" alt="Off the clock: my character training, watching anime, gaming and levelling up" width="100%"/>
 
 <br/><br/>
 
