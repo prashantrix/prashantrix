@@ -37,15 +37,13 @@
 
 ## 📊 Featured analytics projects
 
-*A selection of dashboards and data-analysis builds.*
+<div align="center">
 
-| Project | Focus | Tools | From the project README |
-|:---|:---|:---|:---|
-| 🌾 [**Seasonal Agriculture Performance Analysis**](https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis) | Crop-season comparisons, yield, profitability, water efficiency and risk | Python · Pandas · Seaborn | Kharif strongest overall; Zaid weaker on profit, higher risk |
-| 💳 [**PhonePe Analysis Dashboard**](https://github.com/prashantrix/PhonePe-Analysis-Dashboard) | Transaction, user and regional trends across India | Power BI · Power Query | Filters by year, quarter and region; state and district drill-down |
-| 🛒 [**Amazon Sales Dashboard**](https://github.com/prashantrix/Amazon-Sales-Dashboard) | Sales, profit and order trends using cleaned Excel data | Excel · Power BI | KPI cards, category tree map, profit by state |
-| 📱 [**Mobile Sales Dashboard**](https://github.com/prashantrix/Mobile-Sales-Dashboard) | Mobile brand sales, ratings and trend analysis | Power Query · DAX · Power BI | ₹769M+ total sales; Apple, OnePlus, Samsung lead |
-| 🍕 [**PizzaHut Sales Analysis**](https://github.com/prashantrix/PizzaHut-Sales-Analysis) | Revenue, sales patterns and top-selling pizzas | T-SQL · DAX · Power Query | ₹817.86K revenue · 48.62K orders · July peak |
+<img src="./assets/projects.svg?v=1" alt="Featured analytics projects with real results: customer churn 26.5%, healthcare doctor visits, PizzaHut, mobile sales, seasonal agriculture, PhonePe and Amazon dashboards" width="100%"/>
+
+<sub>Open the repos: <a href="https://github.com/prashantrix/Customer-Churn-Analysis-Prediction">Customer Churn</a> · <a href="https://github.com/prashantrix/healthcare-analytics-doctor-visits">Healthcare Visits</a> · <a href="https://github.com/prashantrix/PizzaHut-Sales-Analysis">PizzaHut</a> · <a href="https://github.com/prashantrix/Mobile-Sales-Dashboard">Mobile Sales</a> · <a href="https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis">Agriculture</a> · <a href="https://github.com/prashantrix/PhonePe-Analysis-Dashboard">PhonePe</a> · <a href="https://github.com/prashantrix/Amazon-Sales-Dashboard">Amazon Sales</a></sub>
+
+</div>
 
 ## 🌃 My contribution city
 
