@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<img src="./assets/projects.svg?v=2" alt="Featured analytics projects with real results: customer churn 26.5%, healthcare doctor visits, PizzaHut, mobile sales, seasonal agriculture, PhonePe and Amazon dashboards" width="100%"/>
+<img src="./assets/projects.svg?v=3" alt="Featured analytics projects with real results: customer churn 26.5%, healthcare doctor visits, PizzaHut, mobile sales, seasonal agriculture, PhonePe and Amazon dashboards" width="100%"/>
 
 <sub>Open the repos: <a href="https://github.com/prashantrix/Customer-Churn-Analysis">Customer Churn</a> · <a href="https://github.com/prashantrix/healthcare-analytics-doctor-visits">Healthcare Visits</a> · <a href="https://github.com/prashantrix/PizzaHut-Sales-Analysis">PizzaHut</a> · <a href="https://github.com/prashantrix/Mobile-Sales-Dashboard">Mobile Sales</a> · <a href="https://github.com/prashantrix/Seasonal-Agriculture-Performance-Analysis">Agriculture</a> · <a href="https://github.com/prashantrix/PhonePe-Analysis-Dashboard">PhonePe</a> · <a href="https://github.com/prashantrix/Amazon-Sales-Dashboard">Amazon Sales</a></sub>
 
