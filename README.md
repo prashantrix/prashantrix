@@ -35,6 +35,12 @@
 | Data Analyst Intern | Edunet Foundation · VOIS for Tech | Aug 2026 – present |
 | Data Analyst — Odoo 13 ERP data validation, reconciliation, QA/UAT | EOXS | Jul 2025 – Aug 2026 |
 
+<div align="center">
+
+<img src="./assets/walker.svg?v=1" alt="" width="100%"/>
+
+</div>
+
 ## 📊 Featured analytics projects
 
 <div align="center">
@@ -54,6 +60,12 @@
 <img src="./profile-3d-contrib/profile-night-view.svg?v=10" alt="3D GitHub contribution landscape" width="100%"/>
 
 <br/><br/>
+
+</div>
+
+<div align="center">
+
+<img src="./assets/walker.svg?v=1" alt="" width="100%"/>
 
 </div>
 
